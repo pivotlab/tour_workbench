@@ -1,0 +1,21 @@
+package au.gov.ato.super
+payment_reference_number_request
+
+Request
+ intermediary:Intermediary
+ reportingParty:ReportingParty
+ 
+
+Intermediary
+ ^abn:(http://definitions.ausdx.io/definition/trc/de26)=12345
+ status:(https://super.pivotlab.io/define/de4)=404
+    taxAgentNumber:(http://definitions.ausdx.io/definition/trc/de217)
+ 
+
+ReportingParty
+ tfn:(http://definitions.ausdx.io/definition/trc/de27)
+ abn:(http://definitions.ausdx.io/definition/trc/de26)
+ accountIdentifier:(https://super.pivotlab.io/define/de6)
+ accountCode:(https://super.pivotlab.io/define/de7)
+ sequenceNumber:(https://super.pivotlab.io/define/de8)
+ roleType:(http://definitions.ausdx.io/definition/trc/de13272)
