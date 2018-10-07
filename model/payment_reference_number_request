@@ -8,14 +8,13 @@ Request
 
 Intermediary
  ^abn:(http://definitions.ausdx.io/definition/trc/de26)=12345
- status:(https://super.pivotlab.io/define/de4)=404
+ status:(https://tour.pivotlab.io/define/de1)=404
     taxAgentNumber:(http://definitions.ausdx.io/definition/trc/de217)
  
 
 ReportingParty
  tfn:(http://definitions.ausdx.io/definition/trc/de27)
  abn:(http://definitions.ausdx.io/definition/trc/de26)
- accountIdentifier:(https://super.pivotlab.io/define/de6)
- accountCode:(https://super.pivotlab.io/define/de7)
- sequenceNumber:(https://super.pivotlab.io/define/de8)
+ accountIdentifier:(https://tour.pivotlab.io/define/de3)
+ accountCode:(https://tour.pivotlab.io/define/de2)
  roleType:(http://definitions.ausdx.io/definition/trc/de13272)

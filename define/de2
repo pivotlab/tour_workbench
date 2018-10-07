@@ -1,0 +1,20 @@
+# Tax Account Code
+
+## identifier
+de2
+
+## type
+
+string
+
+## definition
+
+A code to indicate the type of an account
+
+## codes
+| Name   | Code |
+| ------ | ---- |
+| Tax    |    1 |
+| Loan   |    2 |
+| Super  |    3 |
+| Excise |    4 |
