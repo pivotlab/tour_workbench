@@ -2,21 +2,21 @@ package ato.superannuation
 tfn_integrity_check
 
 Person
- tfn:(http://definitions.ausdx.io/definition/edu/edu416)
- birthDate:(http://definitions.ausdx.io/definition/trc/de36)
- familyName:(http://definitions.ausdx.io/definition/trc/de40)
- givenName:(http://definitions.ausdx.io/definition/trc/de41)
- otherName:(http://definitions.ausdx.io/definition/trc/de42)
+ tfn:(http://api.gov.au/definition/edu/edu416)
+ birthDate:(http://api.gov.au/definition/trc/de36)
+ familyName:(http://api.gov.au/definition/trc/de40)
+ givenName:(http://api.gov.au/definition/trc/de41)
+ otherName:(http://api.gov.au/definition/trc/de42)
  address:Address
  
 Address
- usage:(http://definitions.ausdx.io/definition/trc/de23)
- line1:(http://definitions.ausdx.io/definition/trc/de17)
- line2:(http://definitions.ausdx.io/definition/trc/de18)
- line3:(http://definitions.ausdx.io/definition/trc/de167)
- line4:(http://definitions.ausdx.io/definition/trc/de80)
- suburb:(http://definitions.ausdx.io/definition/trc/de19)
- postcode:(http://definitions.ausdx.io/definition/trc/de21)
- state:(http://definitions.ausdx.io/definition/trc/de22)
- country:(http://definitions.ausdx.io/definition/trc/de528)
+ usage:(http://api.gov.au/definition/trc/de23)
+ line1:(http://api.gov.au/definition/trc/de17)
+ line2:(http://api.gov.au/definition/trc/de18)
+ line3:(http://api.gov.au/definition/trc/de167)
+ line4:(http://api.gov.au/definition/trc/de80)
+ suburb:(http://api.gov.au/definition/trc/de19)
+ postcode:(http://api.gov.au/definition/trc/de21)
+ state:(http://api.gov.au/definition/trc/de22)
+ country:(http://api.gov.au/definition/trc/de528)
  

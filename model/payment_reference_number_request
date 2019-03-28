@@ -7,14 +7,14 @@ Request
  
 
 Intermediary
- ^abn:(http://definitions.ausdx.io/definition/trc/de26)=12345
+ ^abn:(http://api.gov.au/definition/trc/de26)=12345
  status:(https://tour.pivotlab.io/define/de1)=404
-    taxAgentNumber:(http://definitions.ausdx.io/definition/trc/de217)
+    taxAgentNumber:(http://api.gov.au/definition/trc/de217)
  
 
 ReportingParty
- tfn:(http://definitions.ausdx.io/definition/trc/de27)
- abn:(http://definitions.ausdx.io/definition/trc/de26)
+ tfn:(http://api.gov.au/definition/trc/de27)
+ abn:(http://api.gov.au/definition/trc/de26)
  accountIdentifier:(https://tour.pivotlab.io/define/de3)
  accountCode:(https://tour.pivotlab.io/define/de2)
- roleType:(http://definitions.ausdx.io/definition/trc/de13272)
+ roleType:(http://api.gov.au/definition/trc/de13272)
