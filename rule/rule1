@@ -1,0 +1,8 @@
+# Addresses must not start with P.O
+
+## identifier
+rule1
+
+## description
+No PO box addresses are accepted
+
