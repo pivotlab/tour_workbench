@@ -5,3 +5,11 @@ author:alastair.parker@gmail.com
 team:Fighting Mongooses
 \_@('_')@_/
 
+type:release_notes
+body:Here is where you document this release.\n\nYou should explain to people why the release was made, and highlight any significant business changes that were made.\n\nYou can also choose if this is a pre or a final release, and the version number will update accordingly.
+release_type:alpha
+date:13 July 2020 @ 08:04
+author:alastair.parker@gmail.com
+team:Fighting Mongooses
+\_@('_')@_/
+
