@@ -24,6 +24,7 @@ The first digit of the status code specifies one of five standard classes of res
 For more information about the codes [read the wiki article](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
 ontinue
 
+
 ## codes
 | Code | Description |
 | ---- | ----------- |
