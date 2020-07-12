@@ -1,7 +1,7 @@
 type:comment
 body:Here is where team members can discuss what has happened, and agree or not to publish releases
 date:13 July 2020 @ 08:03
-author:alastair.parker@gmail.com
+author:pivot
 team:Fighting Mongooses
 \_@('_')@_/
 
@@ -9,12 +9,12 @@ type:release_notes
 body:Here is where you document this release.\n\nYou should explain to people why the release was made, and highlight any significant business changes that were made.\n\nYou can also choose if this is a pre or a final release, and the version number will update accordingly.
 release_type:alpha
 date:13 July 2020 @ 08:04
-author:alastair.parker@gmail.com
+author:pivot
 team:Fighting Mongooses
 \_@('_')@_/
 
 date:13 July 2020 @ 08:05
-author:alastair.parker@gmail.com
+author:pivot
 team:Fighting Mongooses
 type:change
 path:/define/de1
@@ -25,7 +25,7 @@ body:
 type:comment
 body:Each time someone makes a change, you'll see that change show up here
 date:13 July 2020 @ 08:06
-author:alastair.parker@gmail.com
+author:pivot
 team:Fighting Mongooses
 \_@('_')@_/
 
@@ -33,7 +33,15 @@ type:approval
 decision:disagree
 body:Teams can look at the changes, and decide if they impact on their team or not.\n\nIf there is a problem, you can call it out here, and mark the release as not-approved.
 date:13 July 2020 @ 08:07
-author:alastair.parker@gmail.com
+author:pivot
+team:Fighting Mongooses
+\_@('_')@_/
+
+type:approval
+decision:agree
+body:Once your team is OK with the changes, you can mark the release as approved:
+date:13 July 2020 @ 08:07
+author:pivot
 team:Fighting Mongooses
 \_@('_')@_/
 
